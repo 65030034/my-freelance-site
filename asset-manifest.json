@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-freelance-site/static/css/main.54c92a06.css",
-    "main.js": "/my-freelance-site/static/js/main.84a0de2d.js",
+    "main.js": "/my-freelance-site/static/js/main.9b6c8223.js",
     "index.html": "/my-freelance-site/index.html",
     "main.54c92a06.css.map": "/my-freelance-site/static/css/main.54c92a06.css.map",
-    "main.84a0de2d.js.map": "/my-freelance-site/static/js/main.84a0de2d.js.map"
+    "main.9b6c8223.js.map": "/my-freelance-site/static/js/main.9b6c8223.js.map"
   },
   "entrypoints": [
     "static/css/main.54c92a06.css",
-    "static/js/main.84a0de2d.js"
+    "static/js/main.9b6c8223.js"
   ]
 }
