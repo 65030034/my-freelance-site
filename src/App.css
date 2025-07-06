@@ -85,18 +85,21 @@ footer {
 .header-flex {
   display: flex;
   align-items: center;
-  justify-content: center; /* กึ่งกลางทั้งหมดใน header */
+  justify-content: center; 
   gap: 1.5rem;
   flex-wrap: wrap;
 }
 
 .profile-img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; 
   object-fit: cover;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  margin-right: 1rem;
+  border: 2px solid white;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
+
 
 .text-content {
   text-align: center;
