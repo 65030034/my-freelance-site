@@ -7,6 +7,7 @@ function Portfolio() {
         <li><a href="https://github.com/65030034/ESP32-With-XY-MD02-Sensor-Temperature-Humidity-RS485-Modbus-Protocol">Modbus-RS485</a></li>
         <li><a href="https://github.com/65030034/Project_PersonalProject">Project Game</a></li>
         <li><a href="https://github.com/sands-trainee/popkun">Project IOT Airconditioner</a></li>
+        <li><a href="https://github.com/65030034/myresume">My Resume Web Code</a></li>
       </ul>
     </section>
   );
